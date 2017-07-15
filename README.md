@@ -1,1 +1,2 @@
-# Assignment-2.2-master
+# Assignment-2.2
+Write a program to print the “X” pattern:
